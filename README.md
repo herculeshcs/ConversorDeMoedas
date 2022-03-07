@@ -121,4 +121,7 @@ Resposta:
 |TWD    |Real Brasileiro/Dólar Taiuanês          |
 |GBP    |Real Brasileiro/Libra Esterlina         |
 
+# Testes
+   1. basta configurar o arquivo teste.conf com as informações do host de teste, o arquivo é bem simples a primeira linha tem a url do host e a segunda linha tem uma lista das moedas a serem testadas.
+   2. Assim que o teste.conf estiver configurado e estiver na mesma basta que o testeAPI.py, basta executar o testeAPI.py, no final ele vai mostrar um pequeno relatorio sobre os testes que foram ok e os que falaharam.
 
