@@ -14,7 +14,7 @@ convertCurrency?currency=Simbolo&realValue=Valor
 Resposta:
 
 {"valorConvertido": string, "tipoConversao": string, "fatorConversao": String}
-#Onde:
+####Onde:
   -valorConvertid = Valor convertido para a moeda alvo.
   -tipoConversao  = Vai informar qual a conversão foi feita, sempre BRL-Simbolo, onde Simbolo é o simbolo usado para representar outra moeda.
   -fatorConversao = Vai informar qual o fator usada na conversão onde valorConvertido=realValue*fator
