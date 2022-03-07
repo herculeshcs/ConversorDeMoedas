@@ -46,9 +46,9 @@ Resposta:
  
  A resposta da API varia já que as cotações são atualizadas a cada 30 minutos.
 
-# Moedas Suportadas e seus simbolos:
+# Moedas Suportadas e seus símbolos:
 
-|Simbolo|Conversao de/para                       |
+|Símbolo|Conversao de/para                       |
 |-------|----------------------------------------|
 |XOF    |Real Brasileiro/Franco CFA Ocidental    |
 |LKR    |Real Brasileiro/Rúpia de Sri Lanka      |
