@@ -1,4 +1,8 @@
 # SBFTeste
+# Como a API funciona:
+1. Ela consome a cada 30 minutos (atualizaBase.py) https://economia.awesomeapi.com.br para atualizar uma tabela com as cotações de todas as cerca de 60 moedas disponiveis.
+2. Isso é feito dentro do conteiner onde gravamos os dados em um banco postgres.
+3. Quando se faz uma requisição outro programa escrito em python usando flask(app.py) consome essa tabela para determinar realizar a conversao.
 
 # Instalando API 
 
@@ -116,3 +120,5 @@ Resposta:
 |PAB    |Real Brasileiro/Balboa Panamenho        |
 |TWD    |Real Brasileiro/Dólar Taiuanês          |
 |GBP    |Real Brasileiro/Libra Esterlina         |
+
+
