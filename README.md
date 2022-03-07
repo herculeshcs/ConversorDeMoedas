@@ -46,5 +46,67 @@ Resposta:
  
  A resposta da API varia já que as cotações são atualizadas a cada 30 minutos.
 
+# Moedas Suportadas e seus simbolos:
 
-
+|Simbolo|Conversao de/para                       |
+|-------|----------------------------------------|
+|XOF    |Real Brasileiro/Franco CFA Ocidental    |
+|LKR    |Real Brasileiro/Rúpia de Sri Lanka      |
+|ARS    |Real Brasileiro/Peso Argentino          |
+|PEN    |Real Brasileiro/Sol do Peru             |
+|BBD    |Real Brasileiro/Dólar de Barbados       |
+|PKR    |Real Brasileiro/Rúpia Paquistanesa      |
+|LBP    |Real Brasileiro/Libra Libanesa          |
+|PYG    |Real Brasileiro/Guarani Paraguaio       |
+|ILS    |Real Brasileiro/Novo Shekel Israelense  |
+|NPR    |Real Brasileiro/Rúpia Nepalesa          |
+|CNY    |Real Brasileiro/Yuan Chinês             |
+|COP    |Real Brasileiro/Peso Colombiano         |
+|PHP    |Real Brasileiro/Peso Filipino           |
+|KES    |Real Brasileiro/Shilling Queniano       |
+|BHD    |Real Brasileiro/Dinar do Bahrein        |
+|DKK    |Real Brasileiro/Coroa Dinamarquesa      |
+|ZAR    |Real Brasileiro/Rand Sul-Africano       |
+|ISK    |Real Brasileiro/Coroa Islandesa         |
+|MYR    |Real Brasileiro/Ringgit Malaio          |
+|TRY    |Real Brasileiro/Nova Lira Turca         |
+|CAD    |Real Brasileiro/Dólar Canadense         |
+|VEF    |Real Brasileiro/Bolívar Venezuelano     |
+|RON    |Real Brasileiro/Leu Romeno              |
+|BRLT   |Dólar Americano/Real Brasileiro Turismo |
+|EUR    |Real Brasileiro/Euro                    |
+|USD    |Real Brasileiro/Dólar Americano         |
+|UYU    |Real Brasileiro/Peso Uruguaio           |
+|JOD    |Real Brasileiro/Dinar Jordaniano        |
+|JMD    |Real Brasileiro/Dólar Jamaicano         |
+|HKD    |Real Brasileiro/Dólar de Hong Kong      |
+|AED    |Real Brasileiro/Dirham dos Emirados     |
+|BOB    |Real Brasileiro/Boliviano               |
+|THB    |Real Brasileiro/Baht Tailandês          |
+|CHF    |Real Brasileiro/Franco Suíço            |
+|SAR    |Real Brasileiro/Riyal Saudita           |
+|NZD    |Real Brasileiro/Dólar Neozelandês       |
+|QAR    |Real Brasileiro/Rial Catarense          |
+|XCD    |Real Brasileiro/Dólar do Caribe Oriental|
+|SGD    |Real Brasileiro/Dólar de Cingapura      |
+|NAD    |Real Brasileiro/Dólar Namíbio           |
+|NOK    |Real Brasileiro/Coroa Norueguesa        |
+|INR    |Real Brasileiro/Rúpia Indiana           |
+|PLN    |Real Brasileiro/Zlóti Polonês           |
+|RUB    |Real Brasileiro/Rublo Russo             |
+|AUD    |Real Brasileiro/Dólar Australiano       |
+|XAF    |Real Brasileiro/Franco CFA Central      |
+|KRW    |Real Brasileiro/Won Sul-Coreano         |
+|EGP    |Real Brasileiro/Libra Egípcia           |
+|HUF    |Real Brasileiro/Florim Húngaro          |
+|CLP    |Real Brasileiro/Peso Chileno            |
+|CZK    |Real Brasileiro/Coroa Checa             |
+|JPY    |Real Brasileiro/Iene Japonês            |
+|MAD    |Real Brasileiro/Dirham Marroquino       |
+|OMR    |Real Brasileiro/Rial Omanense           |
+|IDR    |Real Brasileiro/Rupia Indonésia         |
+|MXN    |Real Brasileiro/Peso Mexicano           |
+|SEK    |Real Brasileiro/Coroa Sueca             |
+|PAB    |Real Brasileiro/Balboa Panamenho        |
+|TWD    |Real Brasileiro/Dólar Taiuanês          |
+|GBP    |Real Brasileiro/Libra Esterlina         |
