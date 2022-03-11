@@ -1,4 +1,4 @@
-# SBFTeste
+# API de Conversão de Real para outras moedas.
 # Como a API funciona:
 1. Ela consome a cada 30 minutos (atualizaBase.py) https://economia.awesomeapi.com.br para atualizar uma tabela com as cotações de todas as cerca de 60 moedas disponiveis.
 2. Isso é feito dentro do conteiner onde gravamos os dados em um banco postgres.
